@@ -1,3 +1,5 @@
+
+# New Amazing website
 # Run a development container like this: "docker build -t website $(pwd) && docker run -it -p 4000:4000 -v $(pwd):/repo website"
 
 FROM ruby
